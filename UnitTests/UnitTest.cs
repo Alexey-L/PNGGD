@@ -18,7 +18,7 @@ namespace UnitTests
         [Test]
         public void TestMultipleSum1()
         {
-            const int x1 = 5;
+            const int x1 = 10;
             const int x2 = 5;
             const int x3 = 5;
             const int x4 = 5;
