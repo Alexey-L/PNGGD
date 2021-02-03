@@ -7,7 +7,6 @@ namespace UnitTests
         [Test]
         public void TestDoubleSum()
         {
-            //test comment
             const int x1 = 6;
             const int x2 = 7;
             const int expRes = 13;
